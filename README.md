@@ -41,11 +41,11 @@ If we have established an SLA for the Pipeline run, we can add a threshold value
 
 To generate an alert from the query above, click on the “+ New Alert” button on top of the query window and select to build a new alert on the Custom query.
 
-![New Alert Button](images\img001_NewAlert.png)
+![New Alert Button](images/img001_NewAlert.png)
 
 Shown below is the alert created for the query above, based on number of rows returned, monitored every 24 hours for past 24 hours.
 
-![New Alert Action](images\img002_NewAlertAction.png)
+![New Alert Action](images/img002_NewAlertAction.png)
 
 ## Conclusion
 
